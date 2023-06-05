@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dehya Khurraim Siddiqui</h1>
-<h3 align="center">A passionate, goal-driven, highly motivated, and detail-oriented software engineering student</h3>
+<h3 align="center"Welcome to my GitHub profile! Here's a brief overview of who I am and what I'm passionate about.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dehyakhurraim&label=Profile%20views&color=0e75b6&style=flat" alt="dehyakhurraim" /> </p>
 
