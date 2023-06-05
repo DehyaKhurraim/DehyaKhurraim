@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dehyakhurraim&label=Profile%20views&color=0e75b6&style=flat" alt="dehyakhurraim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dehyakhurraim" alt="dehyakhurraim" /></a> </p>
-
 - 🔭 I’m currently pursuing a **Bachelor's degree in Software Engineering.**
 
 - 🌱 I'm constantly learning and exploring **new technologies to stay up-to-date with the latest industry trends.**
