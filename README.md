@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Dehya Khurraim Siddiqui</h1>
-<h3 align="center"Welcome to my GitHub profile! Here's a brief overview of who I am and what I'm passionate about.</h3>
+Hi there! I'm a Dehya Khurraim Siddiqui 👋
+Welcome to my GitHub profile! Here's a brief overview of who I am and what I'm passionate about.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dehyakhurraim&label=Profile%20views&color=0e75b6&style=flat" alt="dehyakhurraim" /> </p>
+About Me
 
-- 🔭 I’m currently working on **Full Stack Development**
-
-- 🌱 I’m currently learning **Java Development**
-
-- 💬 Ask me about **Web Development, HTML, CSS, Java**
-
-- 📫 How to reach me **dehya.khurraim@gmail.com**
+🎓 I'm currently pursuing a Bachelor's degree in Software Engineering.
+💻 I have a keen interest in developing software solutions and solving complex problems using technology.
+🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest industry trends.
+🤝 I enjoy collaborating with fellow developers, sharing knowledge, and contributing to open-source projects.
+💡 I'm passionate about software design patterns, algorithms, and creating efficient and scalable applications.
+⚡️ In my free time, I love to explore new programming languages and frameworks, and I enjoy participating in coding competitions.
+🔭 I’m currently working on **Full Stack Development**
+🌱 I’m currently learning **Java Development**
+💬 Ask me about **Web Development, HTML, CSS, Java**
+📫 How to reach me **dehya.khurraim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
