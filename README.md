@@ -1,17 +1,16 @@
 Hi there! I'm a Dehya Khurraim Siddiqui 👋
 Welcome to my GitHub profile! Here's a brief overview of who I am and what I'm passionate about.
 
-About Me
+<h3 align="left">About me:</h3>
 
 🎓 I'm currently pursuing a Bachelor's degree in Software Engineering.
+🔭 I’m currently working on **Full Stack Development**
 💻 I have a keen interest in developing software solutions and solving complex problems using technology.
 🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest industry trends.
 🤝 I enjoy collaborating with fellow developers, sharing knowledge, and contributing to open-source projects.
 💡 I'm passionate about software design patterns, algorithms, and creating efficient and scalable applications.
 ⚡️ In my free time, I love to explore new programming languages and frameworks, and I enjoy participating in coding competitions.
-🔭 I’m currently working on **Full Stack Development**
-🌱 I’m currently learning **Java Development**
-💬 Ask me about **Web Development, HTML, CSS, Java**
+💬 Ask me about **Web Development, Software Development**
 📫 How to reach me **dehya.khurraim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
