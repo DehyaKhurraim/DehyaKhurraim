@@ -30,7 +30,8 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&show_icons=true&locale=en&layout=compact" alt="dehyakhurraim" />
-![](https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+![Dehya's github stats](https://github-readme-stats.vercel.app/api?username=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs)
+
 <br/>
 
 <p><img align="left" src="" alt="dehyakhurraim" /></p>
