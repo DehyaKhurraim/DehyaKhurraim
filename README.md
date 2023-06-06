@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile! Here's a brief overview of who I am and what I'm passionate about.</h3>
 <br/>
 
-## 💫 About Me:
+# 💫 About Me:
 - 🔭 I’m currently pursuing a **Bachelor's degree in Software Engineering.**
 
 - 🌱 I'm constantly learning and exploring **new technologies to stay up-to-date with the latest industry trends.**
@@ -16,7 +16,7 @@
 - 📫 How to reach me **dehya.khurraim@gmail.com**
 <br/>
 
-## 🌐 Connect with me:
+# 🌐 Connect with me:
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dehya-khurraim-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dehya-khurraim-siddiqui" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/dehya_khurraim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dehya_khurraim" height="40" width="50" style="margin-left:30px;"/></a>
