@@ -32,5 +32,6 @@
 # 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs&layout=compact" alt="dehyakhurraim" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs" alt="dehyakhurraim" /></p>
+<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs" alt="dehyakhurraim" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs" alt="dehyakhurraim" /></p>
