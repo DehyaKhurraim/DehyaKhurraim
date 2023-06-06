@@ -31,10 +31,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs)<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs" alt="dehyakhurraim)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs&layout=compact)
 
 
 <p><img align="left" src="" alt="dehyakhurraim" /></p>
 <br/>
 <p><img align="center" src="" alt="dehyakhurraim" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs" alt="dehyakhurraim" /></p>
+<p><img align="center" src="" /></p>
