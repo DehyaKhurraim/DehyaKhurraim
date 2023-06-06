@@ -29,11 +29,11 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="dehyakhurraim" /></p>
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dehyakhurraim&show_icons=true&locale=en" alt="dehyakhurraim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dehyakhurraim&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="dehyakhurraim" /></p>
+![](https://github-readme-stats.vercel.app/api?username=wahajJaved20&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dehyakhurraim&" alt="dehyakhurraim" /></p>
