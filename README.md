@@ -28,12 +28,12 @@
 
 # 🌟 Skills:
 
-Languages: Java, Python, C++, JavaScript
-Web Development: HTML, CSS, JavaScript, React, Node.js
-Databases: SQL, MongoDB
-Version Control: Git, GitHub
-Software Development: Agile Methodologies, Software Testing, OOP
-Problem Solving: Data Structures, Algorithms
+<h3>Languages:</h3> Java, Python, C++, JavaScript <br/>
+<h3>Web Development:</h3> HTML, CSS, JavaScript, React, Node.js <br/>
+<h3>Databases:</h3> SQL, MongoDB <br/>
+<h3>Version Control</h3>: Git, GitHub <br/>
+<h3>Software Development:</h3> Agile Methodologies, Software Testing, OOP <br/>
+<h3>Problem Solving:</h3> Data Structures, Algorithms <br/>
 <br/>
 
 # 💻 Languages and Tools:
