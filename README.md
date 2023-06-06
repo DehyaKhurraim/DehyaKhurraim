@@ -31,5 +31,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dehyakhurraim&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dehyakhurraim&count_private=true&hide=contribs,prs)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&count_private=true&hide=contribs,prs&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=dehyakhurraim&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs&layout=compact)
