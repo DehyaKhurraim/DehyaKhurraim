@@ -29,17 +29,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&show_icons=true&locale=en&layout=compact" alt="dehyakhurraim" />
-![Dehya's github stats](https://github-readme-stats.vercel.app/api?username=dehyakhurraim&count_private=true&theme=tokyonight&hide=contribs,prs)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&show_icons=true&locale=en&layout=compact" alt="dehyakhurraim" /></p>
 
-<br/>
-
-<p><img align="left" src="" alt="dehyakhurraim" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dehyakhurraim&show_icons=true&locale=en" alt="dehyakhurraim" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dehyakhurraim&" alt="dehyakhurraim" /></p>
-
-![](https://github-readme-stats.vercel.app/api?username=wahajJaved20&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wahajJaved20&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahajJaved20&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
