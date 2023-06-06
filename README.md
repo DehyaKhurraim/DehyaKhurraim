@@ -30,7 +30,9 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&show_icons=true&locale=en&layout=compact" alt="dehyakhurraim" /></p>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dehyakhurraim&show_icons=true&locale=en" alt="dehyakhurraim" /></p>
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dehyakhurraim&" alt="dehyakhurraim" /></p>
