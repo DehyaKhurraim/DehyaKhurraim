@@ -30,7 +30,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="dehyakhurraim" /></p>
 <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dehyakhurraim&show_icons=true&locale=en" alt="dehyakhurraim" /></p>
