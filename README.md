@@ -47,14 +47,13 @@
 ## Project 1: [E-Learning System]
 ### Description:
 • Developed a web-based e-learning system that enabled accurate tracking of student progress, facilitated seamless communication between
-tutors and students, and significantly improved user experience.
+tutors and students, and significantly improved user experience.<br/>
 • The system enabled automated course tracking and provided an enhanced overview of student progress, resulting in an average 14%
 decrease in student drop-out for the courses.
 
-### Technologies:
-HTML, CSS, JS, JQuery, PHP, Ajax, MySQL
+Technologies: HTML, CSS, JS, JQuery, PHP, Ajax, MySQL
 
-### [GitHub Repository](https://github.com/DehyaKhurraim/E-Learning-Platform)
+[GitHub Repository](https://github.com/DehyaKhurraim/E-Learning-Platform)
 
 
 # 📊 GitHub Stats:
