@@ -75,7 +75,7 @@ Technologies: HTML, CSS, Tailwind CSS, JS
 
 [GitHub Repository](https://github.com/DehyaKhurraim/FAN-o-FAN)
 
-## Project 1: [Tour & Travel's]
+## Project 4: [Tour & Travel's]
 ### Description:
 • Online platform dedicated to providing users with comprehensive information, resources, and tools to plan, book, and enhance their travel
 experiences.<br/>
@@ -86,7 +86,7 @@ Technologies: HTML, CSS, Bootstrap, JS
 
 [GitHub Repository](https://github.com/DehyaKhurraim/Tour-Travel-s)
 
-
+<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dehyakhurraim&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dehyakhurraim&count_private=true&hide=contribs,prs)<br/>
