@@ -47,10 +47,8 @@
 
 ## Project 1: [E-Learning System]
 ### Description:
-• Developed a web-based e-learning system that enabled accurate tracking of student progress, facilitated seamless communication between
-tutors and students, and significantly improved user experience.<br/>
-• The system enabled automated course tracking and provided an enhanced overview of student progress, resulting in an average 14%
-decrease in student drop-out for the courses.
+• Developed a web-based e-learning system that enabled accurate tracking of student progress, facilitated seamless communication between tutors and students, and significantly improved user experience. <br/>
+• The system enabled automated course tracking and provided an enhanced overview of student progress, resulting in an average 14% decrease in student drop-out for the courses.
 
 Technologies: HTML, CSS, JS, JQuery, PHP, Ajax, MySQL
 
@@ -58,9 +56,8 @@ Technologies: HTML, CSS, JS, JQuery, PHP, Ajax, MySQL
 
 ## Project 2: [Pharmacy Mangment System]
 ### Description:
-• Web-based application that facilitates the efficient management of a pharmacy or drugstore.<br/>
-• It serves as a central platform for managing various pharmacy-related tasks, including inventory management, sales and purchases,
-prescription management, customer information, and other administrative functions.
+• Web-based application that facilitates the efficient management of a pharmacy or drugstore. <br/>
+• It serves as a central platform for managing various pharmacy-related tasks, including inventory management, sales and purchases, prescription management, customer information, and other administrative functions.
 
 Technologies: HTML, CSS, Java, JSP, Servlets, MySQL
 
@@ -68,8 +65,7 @@ Technologies: HTML, CSS, Java, JSP, Servlets, MySQL
 
 ## Project 3: [Fan-o-Fan]
 ### Description:
-• Online platform specifically designed for selling fans and related products. It serves as a marketplace where customers can browse and
-purchase a wide range of fans, including ceiling fans, desk fans, tower fans, and portable fans, among others.<br/>
+• Online platform specifically designed for selling fans and related products. It serves as a marketplace where customers can browse and purchase a wide range of fans, including ceiling fans, desk fans, tower fans, and portable fans, among others. <br/>
 
 Technologies: HTML, CSS, Tailwind CSS, JS
 
@@ -77,14 +73,30 @@ Technologies: HTML, CSS, Tailwind CSS, JS
 
 ## Project 4: [Tour & Travel's]
 ### Description:
-• Online platform dedicated to providing users with comprehensive information, resources, and tools to plan, book, and enhance their travel
-experiences.<br/>
-• It serves as a one-stop destination for all travel-related needs, offering a wide range of features and services to assist travelers in every step
-of their journey.
+• Online platform dedicated to providing users with comprehensive information, resources, and tools to plan, book, and enhance their travel experiences. <br/>
+• It serves as a one-stop destination for all travel-related needs, offering a wide range of features and services to assist travelers in every step of their journey.
 
 Technologies: HTML, CSS, Bootstrap, JS
 
 [GitHub Repository](https://github.com/DehyaKhurraim/Tour-Travel-s)
+
+## Project 5: [Nadra Registration System]
+### Description:
+• C++ project that aims to develop a comprehensive registration system for the National Database and Registration Authority (NADRA) of a country. <br/>
+• Responsible for maintaining a centralized database of citizens, issuing identity cards, and managing various administrative processes related to citizen registration.
+
+Technologies: C++
+
+[GitHub Repository](https://github.com/DehyaKhurraim/Nadra-Registration-System)
+
+## Project 5: [CV Managment System]
+### Description:
+• C++ project aimed at developing an efficient and robust system for managing resumes (CVs) with the help of big data technologies. <br/>
+• This project combines the power of C++ programming language and big data processing techniques to handle large volumes of resume data, analyze it, and provide valuable insights for recruiters and HR professionals.
+
+Technologies: C++
+
+[GitHub Repository](https://github.com/DehyaKhurraim/CV-Managment-System)
 
 <br/>
 
