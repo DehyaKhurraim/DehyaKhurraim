@@ -43,7 +43,8 @@
 </p>
 <br/>
 
-# 🚀 Projects
+# 🚀 Top Projects
+
 ## Project 1: [E-Learning System]
 ### Description:
 • Developed a web-based e-learning system that enabled accurate tracking of student progress, facilitated seamless communication between
@@ -54,6 +55,36 @@ decrease in student drop-out for the courses.
 Technologies: HTML, CSS, JS, JQuery, PHP, Ajax, MySQL
 
 [GitHub Repository](https://github.com/DehyaKhurraim/E-Learning-Platform)
+
+## Project 2: [Pharmacy Mangment System]
+### Description:
+• Web-based application that facilitates the efficient management of a pharmacy or drugstore.<br/>
+• It serves as a central platform for managing various pharmacy-related tasks, including inventory management, sales and purchases,
+prescription management, customer information, and other administrative functions.
+
+Technologies: HTML, CSS, Java, JSP, Servlets, MySQL
+
+[GitHub Repository](https://github.com/DehyaKhurraim/Pharmacy-Mangment-System)
+
+## Project 3: [Fan-o-Fan]
+### Description:
+• Online platform specifically designed for selling fans and related products. It serves as a marketplace where customers can browse and
+purchase a wide range of fans, including ceiling fans, desk fans, tower fans, and portable fans, among others.<br/>
+
+Technologies: HTML, CSS, Tailwind CSS, JS
+
+[GitHub Repository](https://github.com/DehyaKhurraim/FAN-o-FAN)
+
+## Project 1: [Tour & Travel's]
+### Description:
+• Online platform dedicated to providing users with comprehensive information, resources, and tools to plan, book, and enhance their travel
+experiences.<br/>
+• It serves as a one-stop destination for all travel-related needs, offering a wide range of features and services to assist travelers in every step
+of their journey.
+
+Technologies: HTML, CSS, Bootstrap, JS
+
+[GitHub Repository](https://github.com/DehyaKhurraim/Tour-Travel-s)
 
 
 # 📊 GitHub Stats:
