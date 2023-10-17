@@ -7,7 +7,7 @@
 
 - 🌱 I'm constantly learning and exploring **new technologies to stay up-to-date with the latest industry trends.**
 
-- 👯 I’m looking to collaborate on **fellow developers, sharing knowledge, and contributing to open-source projects.**
+- 👯 I’m looking to collaborate with **fellow developers, share knowledge, and contribute to open-source projects.**
 
 - 💻 I have a keen interest in **developing software solutions and solving complex problems using technology.**
 
@@ -54,7 +54,7 @@ Technologies: HTML, CSS, JS, JQuery, PHP, Ajax, MySQL
 
 [GitHub Repository](https://github.com/DehyaKhurraim/E-Learning-Platform)
 
-## Project 2: [Pharmacy Mangment System]
+## Project 2: [Pharmacy Management System]
 ### Description:
 • Web-based application that facilitates the efficient management of a pharmacy or drugstore. <br/>
 • It serves as a central platform for managing various pharmacy-related tasks, including inventory management, sales and purchases, prescription management, customer information, and other administrative functions.
@@ -89,7 +89,7 @@ Technologies: C++
 
 [GitHub Repository](https://github.com/DehyaKhurraim/Nadra-Registration-System)
 
-## Project 5: [CV Managment System]
+## Project 5: [CV Management System]
 ### Description:
 • C++ project aimed at developing an efficient and robust system for managing resumes (CVs) with the help of big data technologies. <br/>
 • This project combines the power of C++ programming language and big data processing techniques to handle large volumes of resume data, analyze it, and provide valuable insights for recruiters and HR professionals.
