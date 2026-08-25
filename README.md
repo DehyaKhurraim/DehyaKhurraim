@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://github.com/Dehya-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/Professional%20Profile-Dehya--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="Professional GitHub Profile"/>
+    <img src="https://img.shields.io/badge/Work%20GitHub-Dehya--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub"/>
   </a>
   <a href="https://linkedin.com/in/dehya-khurraim-siddiqui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dehya%20Khurraim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -36,16 +36,6 @@
   </a>
   <a href="https://www.topcoder.com/members/dehya_001" target="_blank">
     <img src="https://img.shields.io/badge/Topcoder-Dehya--001-29ABE2?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder"/>
-  </a>
-</p>
-
-### 💼 Professional Profile
-
-> Software Engineer focused on **backend engineering, distributed systems, APIs, and scalable software architecture**.
-
-<p align="left">
-  <a href="https://github.com/Dehya-Dev">
-    <img src="https://img.shields.io/badge/Explore%20My%20Professional%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Professional Work"/>
   </a>
 </p>
 
