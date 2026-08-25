@@ -1,5 +1,3 @@
-[![Professional GitHub](https://img.shields.io/badge/Professional%20GitHub-Dehya--Dev-181717?logo=github&logoColor=white)](https://github.com/Dehya-Dev)
-
 <h1 align="center">Hi 👋, I'm Dehya Khurraim Siddiqui</h1>
 <h3 align="center">Welcome to my GitHub profile! Here's a brief overview of who I am and what I'm passionate about.</h3>
 <br/>
@@ -18,29 +16,40 @@
 - 📫 How to reach me **dehya.khurraim@gmail.com**
 <br/>
 
-# 🌐 Connect with me:
-# 🌐 Connect with me:
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/Dehya-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/Professional%20GitHub-Dehya--Dev-181717?logo=github&logoColor=white" alt="Professional GitHub - Dehya-Dev" height="40"/>
+    <img src="https://img.shields.io/badge/Professional%20Profile-Dehya--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="Professional GitHub Profile"/>
   </a>
   <a href="https://linkedin.com/in/dehya-khurraim-siddiqui" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Dehya Khurraim" height="40" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Dehya%20Khurraim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.hackerrank.com/dehya_khurraim" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Dehya Khurraim" height="40" width="50"/>
+    <img src="https://img.shields.io/badge/HackerRank-Dehya--Khurraim-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://codeforces.com/profile/dehya.khurraim" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces - Dehya Khurraim" height="40" width="50"/>
+    <img src="https://img.shields.io/badge/Codeforces-Dehya.Khurraim-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://leetcode.com/user5469y" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - Dehya Khurraim" height="40" width="50"/>
+    <img src="https://img.shields.io/badge/LeetCode-user5469y-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.topcoder.com/members/dehya_001" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder - Dehya Khurraim" height="40" width="50"/>
+    <img src="https://img.shields.io/badge/Topcoder-Dehya--001-29ABE2?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder"/>
   </a>
 </p>
+
+### 💼 Professional Profile
+
+> Software Engineer focused on **backend engineering, distributed systems, APIs, and scalable software architecture**.
+
+<p align="left">
+  <a href="https://github.com/Dehya-Dev">
+    <img src="https://img.shields.io/badge/Explore%20My%20Professional%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Professional Work"/>
+  </a>
+</p>
+
+<br/>
 
 <br/>
 
