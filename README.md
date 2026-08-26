@@ -13,7 +13,7 @@
 <a href="mailto:dehya.khurraim@gmail.com"><img src="https://img.shields.io/badge/Email-dehya.khurraim%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/dehya-khurraim-siddiqui"><img src="https://img.shields.io/badge/LinkedIn-Dehya%20Khurraim-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/DehyaKhurraim"><img src="https://img.shields.io/badge/GitHub-DehyaKhurraim-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/Dehya-Dev"><img src="https://img.shields.io/badge/Work%20GitHub-Dehya--Dev-6C63FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Work GitHub profile" /></a>
+<a href="https://github.com/Dehya-Dev"><img src="https://img.shields.io/badge/Work%20Profile-Dehya--Dev-6C63FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Work GitHub profile" /></a>
 <a href="https://dehya2001.blogspot.com"><img src="https://img.shields.io/badge/Blog-Read%20My%20Posts-FF5722?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" alt="Blog" /></a>
 
 <br /><br />
@@ -38,15 +38,6 @@ engineer:
 I'm a software engineer who enjoys learning by **building real things**. My public repositories span .NET APIs and microservices, responsive web applications, Flutter mobile development, database-backed systems, and data-driven experiments. I like turning ideas into working software and strengthening my skills through hands-on problem solving.
 
 <br />
-
-## 💼 Work Profiles
-
-<div align="center">
-
-<p><sub>Professional / organization-linked accounts</sub></p>
-
-<a href="https://github.com/Dehya-Dev"><img src="https://img.shields.io/badge/Dehya--Dev-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub: Dehya-Dev" /></a>
-</div>
 
 ## 🛠️ Tech Stack
 
