@@ -13,6 +13,7 @@
 <a href="mailto:dehya.khurraim@gmail.com"><img src="https://img.shields.io/badge/Email-dehya.khurraim%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/dehya-khurraim-siddiqui"><img src="https://img.shields.io/badge/LinkedIn-Dehya%20Khurraim-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/DehyaKhurraim"><img src="https://img.shields.io/badge/GitHub-DehyaKhurraim-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/Dehya-Dev"><img src="https://img.shields.io/badge/Work%20GitHub-Dehya--Dev-6C63FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Work GitHub profile" /></a>
 <a href="https://dehya2001.blogspot.com"><img src="https://img.shields.io/badge/Blog-Read%20My%20Posts-FF5722?style=for-the-badge&amp;logo=blogger&amp;logoColor=white" alt="Blog" /></a>
 
 <br /><br />
@@ -35,6 +36,25 @@ engineer:
 ```
 
 I'm a software engineer who enjoys learning by **building real things**. My public repositories span .NET APIs and microservices, responsive web applications, Flutter mobile development, database-backed systems, and data-driven experiments. I like turning ideas into working software and strengthening my skills through hands-on problem solving.
+
+<br />
+
+## 🔗 GitHub Profiles
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3><a href="https://github.com/DehyaKhurraim">👤 Personal GitHub ↗</a></h3>
+      <p>Public projects, experiments, and learning repositories.</p>
+      <p><kbd>@DehyaKhurraim</kbd></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3><a href="https://github.com/Dehya-Dev">💼 Work GitHub ↗</a></h3>
+      <p>Professional development profile and work-focused account.</p>
+      <p><kbd>@Dehya-Dev</kbd></p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -163,7 +183,8 @@ I'm a software engineer who enjoys learning by **building real things**. My publ
 
 <p align="center">
   <a href="https://github.com/DehyaKhurraim"><img src="https://img.shields.io/github/followers/DehyaKhurraim?label=FOLLOWERS&amp;style=for-the-badge&amp;color=181717&amp;logo=github" alt="GitHub followers" /></a>
-  <a href="https://github.com/DehyaKhurraim?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open GitHub profile" /></a>
+  <a href="https://github.com/DehyaKhurraim?tab=repositories"><img src="https://img.shields.io/badge/PERSONAL%20GITHUB-DehyaKhurraim-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open personal GitHub profile" /></a>
+  <a href="https://github.com/Dehya-Dev"><img src="https://img.shields.io/badge/WORK%20GITHUB-Dehya--Dev-6C63FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open work GitHub profile" /></a>
 </p>
 
 <br />
