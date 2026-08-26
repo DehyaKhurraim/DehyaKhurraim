@@ -41,20 +41,14 @@ I'm a software engineer who enjoys learning by **building real things**. My publ
 
 ## 🔗 GitHub Profiles
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3><a href="https://github.com/DehyaKhurraim">👤 Personal GitHub ↗</a></h3>
-      <p>Public projects, experiments, and learning repositories.</p>
-      <p><kbd>@DehyaKhurraim</kbd></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3><a href="https://github.com/Dehya-Dev">💼 Work GitHub ↗</a></h3>
-      <p>Professional development profile and work-focused account.</p>
-      <p><kbd>@Dehya-Dev</kbd></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<h3>💼 Work Profiles</h3>
+<p><sub>Professional / organization-linked accounts</sub></p>
+
+<a href="https://github.com/Dehya-Dev"><img src="https://img.shields.io/badge/Dehya--Dev-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub: Dehya-Dev" /></a>
+
+</div>
 
 <br />
 
