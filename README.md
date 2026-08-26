@@ -39,18 +39,14 @@ I'm a software engineer who enjoys learning by **building real things**. My publ
 
 <br />
 
-## 🔗 GitHub Profiles
+## 💼 Work Profiles
 
 <div align="center">
 
-<h3>💼 Work Profiles</h3>
 <p><sub>Professional / organization-linked accounts</sub></p>
 
 <a href="https://github.com/Dehya-Dev"><img src="https://img.shields.io/badge/Dehya--Dev-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub: Dehya-Dev" /></a>
-
 </div>
-
-<br />
 
 ## 🛠️ Tech Stack
 
