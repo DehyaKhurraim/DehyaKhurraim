@@ -64,37 +64,19 @@ I like turning ideas into working software, exploring different technologies, an
 
 ## 📌 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/DehyaKhurraim/MRICO">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=MRICO&hide_border=true&theme=transparent" alt="MRICO repository" />
-  </a>
-  <a href="https://github.com/DehyaKhurraim/FAN-o-FAN">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=FAN-o-FAN&hide_border=true&theme=transparent" alt="FAN-o-FAN repository" />
-  </a>
-  <a href="https://github.com/DehyaKhurraim/E-Learning-Platform">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=E-Learning-Platform&hide_border=true&theme=transparent" alt="E-Learning Platform repository" />
-  </a>
-  <a href="https://github.com/DehyaKhurraim/FinSleuth">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=FinSleuth&hide_border=true&theme=transparent" alt="FinSleuth repository" />
-  </a>
-  <a href="https://github.com/DehyaKhurraim/Tour-Travel-s">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=Tour-Travel-s&hide_border=true&theme=transparent" alt="Tour and Travel repository" />
-  </a>
-  <a href="https://github.com/DehyaKhurraim/TheKayiDigital">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=TheKayiDigital&hide_border=true&theme=transparent" alt="TheKayiDigital repository" />
-  </a>
-</p>
+| Repository | Focus | Technologies |
+| --- | --- | --- |
+| [MRICO](https://github.com/DehyaKhurraim/MRICO) | Property-focused mobile application | Flutter, Dart |
+| [FAN-o-FAN](https://github.com/DehyaKhurraim/FAN-o-FAN) | Static retail website | HTML5, CSS3, Bootstrap, JavaScript, jQuery |
+| [E-Learning Platform](https://github.com/DehyaKhurraim/E-Learning-Platform) | Course and learning-management web application | PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript, jQuery |
+| [FinSleuth](https://github.com/DehyaKhurraim/FinSleuth) | Fraud and money-laundering analysis prototype | Python, Flask, machine learning, HTML, CSS, JavaScript, Power BI |
+| [Tour & Travel](https://github.com/DehyaKhurraim/Tour-Travel-s) | Responsive travel website | HTML5, CSS3, Bootstrap, JavaScript, jQuery |
+| [TheKayiDigital](https://github.com/DehyaKhurraim/TheKayiDigital) | Marketing-agency portfolio website | HTML5, CSS3, JavaScript |
 
-<p align="center">
-  <a href="https://github.com/DehyaKhurraim?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Dehya's repositories" />
-  </a>
-</p>
+**[Browse all repositories →](https://github.com/DehyaKhurraim?tab=repositories)**
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DehyaKhurraim&show_icons=true&hide_border=true&theme=transparent" alt="Dehya's GitHub statistics" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DehyaKhurraim&layout=compact&hide_border=true&theme=transparent" alt="Dehya's most-used public repository languages" />
-</p>
+- [View my contribution graph and recent activity](https://github.com/DehyaKhurraim)
+- [Browse my public repositories](https://github.com/DehyaKhurraim?tab=repositories)
+- [See the repositories I have starred](https://github.com/DehyaKhurraim?tab=stars)
