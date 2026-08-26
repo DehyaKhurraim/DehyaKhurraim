@@ -1,66 +1,100 @@
 <h1 align="center">Hi 👋, I'm Dehya Khurraim Siddiqui</h1>
-<h3 align="center">Welcome to my GitHub profile! Here's a brief overview of who I am and what I'm passionate about.</h3>
-<br/>
 
-# 💫 About Me:
-- 🔭 I’m currently pursuing a **Bachelor's degree in Software Engineering.**
+<h3 align="center">Software Engineer | Backend, Web & Mobile Development</h3>
 
-- 🌱 I'm constantly learning and exploring **new technologies to stay up-to-date with the latest industry trends.**
+<p align="center">
+  Building practical software across APIs, web applications, mobile experiences, and data-driven tools.
+</p>
 
-- 👯 I’m looking to collaborate with **fellow developers, share knowledge, and contribute to open-source projects.**
-
-- 💻 I have a keen interest in **developing software solutions and solving complex problems using technology.**
-
-- 💡 I'm passionate about **software design patterns, algorithms, and creating efficient and scalable applications.**
-
-- 📫 How to reach me **dehya.khurraim@gmail.com**
-<br/>
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Dehya-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/Work%20GitHub-Dehya--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub"/>
+<p align="center">
+  <a href="mailto:dehya.khurraim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dehya.khurraim%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/dehya-khurraim-siddiqui" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dehya%20Khurraim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/dehya-khurraim-siddiqui">
+    <img src="https://img.shields.io/badge/LinkedIn-Dehya%20Khurraim%20Siddiqui-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.hackerrank.com/dehya_khurraim" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Dehya--Khurraim-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  <a href="https://github.com/DehyaKhurraim">
+    <img src="https://img.shields.io/badge/GitHub-DehyaKhurraim-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://codeforces.com/profile/dehya.khurraim" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Dehya.Khurraim-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://leetcode.com/user5469y" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-user5469y-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.topcoder.com/members/dehya_001" target="_blank">
-    <img src="https://img.shields.io/badge/Topcoder-Dehya--001-29ABE2?style=for-the-badge&logo=topcoder&logoColor=white" alt="Topcoder"/>
+  <a href="https://dehya2001.blogspot.com">
+    <img src="https://img.shields.io/badge/Blog-Read%20My%20Posts-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blog" />
   </a>
 </p>
 
-<br/>
+## 👨‍💻 About Me
 
-# 🌟 Skills:
+I'm a software engineer who enjoys learning by building. My public repositories cover **.NET APIs and microservices**, **responsive web applications**, **Flutter mobile development**, **database-backed systems**, and **data-driven experiments**.
+
+I like turning ideas into working software, exploring different technologies, and strengthening my skills through hands-on projects and problem solving.
+
+## 🛠️ Core Technologies
+
 <p>
-<h3>Languages:</h3> Java, C, C++, JavaScript, Dart <br/>
-<h3>Web Development:</h3> HTML, CSS, Bootstrap, JavaScript, JQuery, ReactJS, PHP, Ajax, JSP, Servlets, Spring Boot <br/>
-<h3>Mobile App Development:</h3> Flutter, Flutter Flow <br/>
-<h3>UI/UX:</h3> Figma <br/>
-<h3>Databases:</h3> SQL, MongoDB <br/>
-<h3>Version Control:</h3> Git, GitHub <br/>
-<h3>Software Development:</h3> Agile Methodologies, Software Testing, OOP, Software Development Life Cycle <br/>
-<h3>Problem Solving:</h3> Data Structures, Algorithms <br/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 </p>
-<br/>
 
-# 💻 Languages and Tools:        
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"  width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="80" height="80"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="80"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="80" height="80"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="80" height="80"/>
+| Area | Technologies and practices |
+| --- | --- |
+| **Languages** | C#, JavaScript, Dart, PHP, Python, C/C++, Java, SQL |
+| **Backend & APIs** | .NET 8, ASP.NET Core Web API, Entity Framework Core, Flask, REST APIs, Swagger/OpenAPI, Ocelot API Gateway |
+| **Data & Messaging** | PostgreSQL, SQL Server, MySQL, Redis, RabbitMQ, LINQ, SQL bulk operations |
+| **Frontend & Mobile** | HTML5, CSS3, JavaScript, Bootstrap, jQuery, Flutter |
+| **Security & Testing** | JWT authentication, ASP.NET Identity, xUnit, NUnit, unit testing |
+| **Architecture & Infrastructure** | Microservices, client-server architecture, API gateways, caching, Docker, Git, GitHub |
+| **Data & Visualization** | Python, Flask, machine-learning experiments, Power BI |
+| **Problem Solving** | Data structures, algorithms, sorting visualizations, C/C++ and Java applications |
+
+## 🔭 What I Build
+
+- REST APIs and .NET microservices with authentication, API gateways, caching, messaging, and containerized services
+- Responsive websites and database-backed web applications using modern frontend tools and PHP
+- Cross-platform mobile interfaces with Flutter and Dart
+- Data-driven prototypes using Python, Flask, machine learning, and visual dashboards
+- Problem-solving applications focused on data structures and algorithms
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/DehyaKhurraim/MRICO">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=MRICO&hide_border=true&theme=transparent" alt="MRICO repository" />
+  </a>
+  <a href="https://github.com/DehyaKhurraim/FAN-o-FAN">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=FAN-o-FAN&hide_border=true&theme=transparent" alt="FAN-o-FAN repository" />
+  </a>
+  <a href="https://github.com/DehyaKhurraim/E-Learning-Platform">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=E-Learning-Platform&hide_border=true&theme=transparent" alt="E-Learning Platform repository" />
+  </a>
+  <a href="https://github.com/DehyaKhurraim/FinSleuth">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=FinSleuth&hide_border=true&theme=transparent" alt="FinSleuth repository" />
+  </a>
+  <a href="https://github.com/DehyaKhurraim/Tour-Travel-s">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=Tour-Travel-s&hide_border=true&theme=transparent" alt="Tour and Travel repository" />
+  </a>
+  <a href="https://github.com/DehyaKhurraim/TheKayiDigital">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DehyaKhurraim&repo=TheKayiDigital&hide_border=true&theme=transparent" alt="TheKayiDigital repository" />
+  </a>
 </p>
-<br/>
 
+<p align="center">
+  <a href="https://github.com/DehyaKhurraim?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Dehya's repositories" />
+  </a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dehyakhurraim&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dehyakhurraim&count_private=true&hide=contribs,prs)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=dehyakhurraim&count_private=true&hide=contribs,prs&layout=compact)
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DehyaKhurraim&show_icons=true&hide_border=true&theme=transparent" alt="Dehya's GitHub statistics" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DehyaKhurraim&layout=compact&hide_border=true&theme=transparent" alt="Dehya's most-used public repository languages" />
+</p>
