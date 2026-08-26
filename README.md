@@ -82,22 +82,89 @@ I'm a software engineer who enjoys learning by **building real things**. My publ
 
 ## 📌 Featured Repositories
 
-| Repository | Focus | Technologies |
-| --- | --- | --- |
-| [MRICO](https://github.com/DehyaKhurraim/MRICO) | Property-focused mobile application | Flutter, Dart |
-| [FAN-o-FAN](https://github.com/DehyaKhurraim/FAN-o-FAN) | Static retail website | HTML5, CSS3, Bootstrap, JavaScript, jQuery |
-| [E-Learning Platform](https://github.com/DehyaKhurraim/E-Learning-Platform) | Course and learning-management web application | PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript, jQuery |
-| [FinSleuth](https://github.com/DehyaKhurraim/FinSleuth) | Fraud and money-laundering analysis prototype | Python, Flask, machine learning, HTML, CSS, JavaScript, Power BI |
-| [Tour & Travel](https://github.com/DehyaKhurraim/Tour-Travel-s) | Responsive travel website | HTML5, CSS3, Bootstrap, JavaScript, jQuery |
-| [TheKayiDigital](https://github.com/DehyaKhurraim/TheKayiDigital) | Marketing-agency portfolio website | HTML5, CSS3, JavaScript |
+<p align="center">
+  <a href="https://github.com/DehyaKhurraim?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=800&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Featured+repositories;Built+to+learn.+Built+to+ship." alt="Animated featured repositories heading" />
+  </a>
+</p>
 
-**[Browse all repositories →](https://github.com/DehyaKhurraim?tab=repositories)**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/DehyaKhurraim/MRICO">🏠 MRICO ↗</a></h3>
+      <p align="center">A property-focused mobile experience built for cross-platform exploration.</p>
+      <p align="center"><kbd>Flutter</kbd> <kbd>Dart</kbd> <kbd>Mobile UI</kbd></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/DehyaKhurraim/FAN-o-FAN">💨 FAN-o-FAN ↗</a></h3>
+      <p align="center">A responsive retail website with a clean, product-focused frontend.</p>
+      <p align="center"><kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>Bootstrap</kbd> <kbd>JavaScript</kbd></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/DehyaKhurraim/E-Learning-Platform">🎓 E-Learning Platform ↗</a></h3>
+      <p align="center">A database-backed learning platform for courses and educational content.</p>
+      <p align="center"><kbd>PHP</kbd> <kbd>MySQL</kbd> <kbd>Bootstrap</kbd> <kbd>jQuery</kbd></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/DehyaKhurraim/FinSleuth">🔎 FinSleuth ↗</a></h3>
+      <p align="center">A data-driven prototype for fraud analysis and visual exploration.</p>
+      <p align="center"><kbd>Python</kbd> <kbd>Flask</kbd> <kbd>Machine Learning</kbd> <kbd>Power BI</kbd></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/DehyaKhurraim/Tour-Travel-s">✈️ Tour &amp; Travel ↗</a></h3>
+      <p align="center">A responsive travel website presenting destinations and experiences.</p>
+      <p align="center"><kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>Bootstrap</kbd> <kbd>JavaScript</kbd></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/DehyaKhurraim/TheKayiDigital">✦ TheKayiDigital ↗</a></h3>
+      <p align="center">A polished portfolio website for a digital marketing agency.</p>
+      <p align="center"><kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>JavaScript</kbd> <kbd>Responsive UI</kbd></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/DehyaKhurraim?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-6C63FF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore all repositories" />
+  </a>
+</p>
 
 ## 📊 GitHub Activity
 
-- [View my contribution graph and recent activity](https://github.com/DehyaKhurraim)
-- [Browse my public repositories](https://github.com/DehyaKhurraim?tab=repositories)
-- [See the repositories I have starred](https://github.com/DehyaKhurraim?tab=stars)
+<p align="center">
+  <a href="https://github.com/DehyaKhurraim">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=700&amp;size=25&amp;duration=2200&amp;pause=650&amp;color=2DD4FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Follow+the+build;Browse+the+code;Explore+the+journey" alt="Animated GitHub activity heading" />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>▦ Contributions</h3>
+      <p>Follow commits, pull requests, and the live contribution graph.</p>
+      <p><a href="https://github.com/DehyaKhurraim"><kbd>View activity ↗</kbd></a></p>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <h3>⌘ Repositories</h3>
+      <p>Browse public applications, experiments, and learning projects.</p>
+      <p><a href="https://github.com/DehyaKhurraim?tab=repositories"><kbd>Browse code ↗</kbd></a></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>★ Stars</h3>
+      <p>Explore the tools, libraries, and projects that inspire my work.</p>
+      <p><a href="https://github.com/DehyaKhurraim?tab=stars"><kbd>View stars ↗</kbd></a></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/DehyaKhurraim"><img src="https://img.shields.io/github/followers/DehyaKhurraim?label=FOLLOWERS&amp;style=for-the-badge&amp;color=181717&amp;logo=github" alt="GitHub followers" /></a>
+  <a href="https://github.com/DehyaKhurraim?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20GITHUB%20PROFILE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open GitHub profile" /></a>
+</p>
 
 <br />
 
