@@ -29,8 +29,8 @@
 ```yaml
 engineer:
   name: "Dehya Khurraim Siddiqui"
-  role: "Software Engineer — Backend, Web & Mobile"
-  focus: [".NET APIs & Microservices", "Responsive Web Apps", "Flutter Mobile", "Data & ML Prototypes"]
+  role: "Software Engineer — Backend, Web &amp; Mobile"
+  focus: [".NET APIs &amp; Microservices", "Responsive Web Apps", "Flutter Mobile", "Data &amp; ML Prototypes"]
   philosophy: "Learn by building. Ship, break, refine, repeat."
 ```
 
@@ -42,13 +42,13 @@ I'm a software engineer who enjoys learning by **building real things**. My publ
 
 <div align="center">
 
-**Languages & Frameworks**
+**Languages &amp; Frameworks**
 <br/>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,dart,flutter,php,python,cpp,java" />
 
 <br/><br/>
 
-**Data, Messaging & Infrastructure**
+**Data, Messaging &amp; Infrastructure**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,docker,git,github" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&amp;logo=rabbitmq&amp;logoColor=white" />
@@ -68,12 +68,12 @@ I'm a software engineer who enjoys learning by **building real things**. My publ
 | Area | Technologies and practices |
 | --- | --- |
 | **Languages** | C#, JavaScript, Dart, PHP, Python, C/C++, Java, SQL |
-| **Backend & APIs** | .NET 8, ASP.NET Core Web API, Entity Framework Core, Flask, REST APIs, Swagger/OpenAPI, Ocelot API Gateway |
-| **Data & Messaging** | PostgreSQL, SQL Server, MySQL, Redis, RabbitMQ, LINQ, SQL bulk operations |
-| **Frontend & Mobile** | HTML5, CSS3, JavaScript, Bootstrap, jQuery, Flutter |
-| **Security & Testing** | JWT authentication, ASP.NET Identity, xUnit, NUnit, unit testing |
-| **Architecture & Infrastructure** | Microservices, client-server architecture, API gateways, caching, Docker, Git, GitHub |
-| **Data & Visualization** | Python, Flask, machine-learning experiments, Power BI |
+| **Backend &amp; APIs** | .NET 8, ASP.NET Core Web API, Entity Framework Core, Flask, REST APIs, Swagger/OpenAPI, Ocelot API Gateway |
+| **Data &amp; Messaging** | PostgreSQL, SQL Server, MySQL, Redis, RabbitMQ, LINQ, SQL bulk operations |
+| **Frontend &amp; Mobile** | HTML5, CSS3, JavaScript, Bootstrap, jQuery, Flutter |
+| **Security &amp; Testing** | JWT authentication, ASP.NET Identity, xUnit, NUnit, unit testing |
+| **Architecture &amp; Infrastructure** | Microservices, client-server architecture, API gateways, caching, Docker, Git, GitHub |
+| **Data &amp; Visualization** | Python, Flask, machine-learning experiments, Power BI |
 | **Problem Solving** | Data structures, algorithms, sorting visualizations, C/C++ and Java applications |
 
 </details>
